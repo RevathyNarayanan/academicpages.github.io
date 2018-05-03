@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech Information Technology, Government Engineering College, Barton Hill, Trivandrum
+* Direct Ph.D in Department of Computer Science and Engineering, Indian Institute of Technology, Madras
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Awards and Achievements
+========================
+* ACM/IEEE IPSN 2018 Best Paper Award
+* Fulbright-Nehru Doctoral Research Fellowship
+* Half-Time Research Assistant Fellowship
+* Ranked 1/1000 students in semester 5 and 3/1000 overall in B.Tech in University of Kerala
 
 Publications
+============
+* Charm: exploiting geographical diversity through coherent combining in low-power wide-area networks. IPSN 2018: 60-71,
+Adwait Dongare, Revathy Narayanan, Akshay Gadre, Anh Luong, Artur Balanuta, Swarun Kumar, Bob Iannucci, Anthony Rowe (Best paper award)
+* Power-aware gateway connectivity in battery-powered dynamic IoT networks. Computer Networks 130: 81-93 (2018),Surabhi Abhimithra Karthikeya, Revathy Narayanan, C. Siva Ram Murthy
+* A Probabilistic Framework for Protocol Conversions in IIoT Networks With Heterogeneous Gateways. IEEE Communications Letters 21(11): 2456-2459 (2017), Revathy Narayanan, C. Siva Ram Murthy
+* A novel fairness-driven approach for heterogeneous gateways' link scheduling in IoT networks. ICC 2017: 1-7, Revathy Narayanan, Manikantan Srinivasan, Surabhi Abhimithra Karthikeya, C. Siva Ram Murthy
+
+Research experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Doctoral exchange student at WiTech Lab, Carnegie Mellon University, Pittsburgh (Fall 2017, Summer 2018)
+  * Supervisor: Dr Swarun Kumar
+* Researcher at High Power Computing and Networking Lab, Indian Institute of Technology, Madras
+  * Supervisor: Dr C Siva Ram Murthy
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Half-time teaching assistant at Indian Institute of Technology, Madras
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
