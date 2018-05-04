@@ -32,29 +32,29 @@ Adwait Dongare, Revathy Narayanan, Akshay Gadre, Anh Luong, Artur Balanuta, Swar
 Research experience
 ======
 * Doctoral exchange student at WiTech Lab, Carnegie Mellon University, Pittsburgh (Fall 2017, Summer 2018)
-  * Supervisor: Dr Swarun Kumar
+  * Supervisor: Dr. Swarun Kumar
 * Researcher at High Power Computing and Networking Lab, Indian Institute of Technology, Madras
-  * Supervisor: Dr C Siva Ram Murthy
+  * Supervisor: Prof. C Siva Ram Murthy
 
 Course projects
 ============
 * Investigating Many-to-many communication with and without piggybacking for Improved Network
 Performance in Vehicular Ad-hoc Networks
-(Course Instructor:Prof. C.Siva Ram Murthy)
-Performance analysis will help in comparing different MAC protocols based on different VANET sce-
+ (Course Instructor: Prof. C Siva Ram Murthy)
+: Performance analysis will help in comparing different MAC protocols based on different VANET sce-
 narios with and without piggybacking.
 Studied various papers related to different MAC protocols and the simulations proved improvement
 in network performance using M2M.
-* Data Analytics contest.
-(Course Instructor:Prof. B.Ravindran)
-To produce the best learning model given a large dataset of training data and compute its best possible
+* Data Analytics contest
+(Course Instructor:Prof. B Ravindran)
+: To produce the best learning model given a large dataset of training data and compute its best possible
 performance by testing out on a random test data supplied.
 The model produced gave the second best result in the whole class missing first by a very narrow
 margin.
-* Dynamic Traffic Management System.
+* Dynamic Traffic Management System 
 (BTech Project)
 (Guide: Prof. Vijayanand.K)
-A mobile app that shows the optimised route based on the current traffic conditions
+: A mobile app that shows the optimised route based on the current traffic conditions
 
 Teaching
 ======
